@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\bin\Debug\Trackbar.exe.config
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\bin\Debug\Trackbar.exe
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\bin\Debug\Trackbar.pdb
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\obj\Debug\Trackbar.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\obj\Debug\Trackbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\obj\Debug\Trackbar.Form1.resources
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\obj\Debug\Trackbar.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\obj\Debug\Trackbar.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\obj\Debug\Trackbar.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\obj\Debug\Trackbar.exe
+C:\Users\ucenik\source\repos\Trackbar\Trackbar\obj\Debug\Trackbar.pdb
